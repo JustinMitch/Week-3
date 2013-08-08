@@ -5,12 +5,12 @@
 	<link type=" text/css" rel="stylesheet" href="lab3.css"/>
 	
 	</head>
-	<script type="text/javascript" src="lab3.js"></script>
+	
 	
 	
 	
 	<body>
-
+<script type="text/javascript" src="lab3.js"></script>
 		<div id="ad">ad 5</div>
 		
 		
