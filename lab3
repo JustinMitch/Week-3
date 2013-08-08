@@ -2,42 +2,13 @@
 <!-- saved from url=(0122)https://blackboard.neit.edu/bbcswebdav/pid-571025-dt-content-rid-1265097_1/courses/201340_SE240.54/lab-week3-finished.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
   	<title> Random Ad - Week 3 Lab </title>
-		<style>
-		
-			@keyframes slidein {
-			  from {
-				font-size:1em;
-				opacity: .1;
-				
-			  }
-
-			  to {
-				font-size:2em;
-				opacity: 1;
-				
-			  }
-			}
-			
-			#ad {
-				
-				border-radius: 10px; 
-				box-shadow: 2px 2px 2px 2px #000; 
-				background: linear-gradient(to bottom, #feffff 0%,#ddf1f9 35%,#a0d8ef 100%); /* W3C */
-			
-				animation-duration: 3s;
-				animation-name: slidein;
-				animation-iteration-count: infinite;
-				animation-direction: alternate;
-				
-				border: 1px solid black;
-				font-size: 1em;
-				width: 500px;
-				height: 80px;
-
-			}
-		
-		</style>
+	<link type=" text/css" rel="stylesheet" href="lab3.css"/>
+	
 	</head>
+	<script type="text/javascript" src="lab3.js"></script>
+	
+	
+	
 	<body>
 
 		<div id="ad">ad 5</div>
